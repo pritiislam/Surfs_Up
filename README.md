@@ -6,7 +6,8 @@ _Tools: SQLite, SQLAlchemy, Jupyter Notebook, Flasks_
 The purpose of this project is to run analytics on a weather data set for the island of Oahu. This weather insights will help support a business plan to open a Surf and Ice Cream shop on the island, and it will be critial in building a strong case to gain investor backing.  
 
 ## Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-![June Temp](/Surfts_Up/June Temps)
+![June Temp](/Surfs_Up/June Temps)
+![December Temp](/Surfs_Up/Dec Temps)
 
 
 ## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
