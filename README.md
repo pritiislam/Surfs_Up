@@ -13,5 +13,5 @@ Here are three major takeaways as gathered from the analysis:
 ![June Temp](/June%20Temps.png)
 ![December Temp](/Dec%20Temps.png)
 
-## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+## Summary: 
 Overall, it is clear that weather wise, the temperature is desireable for a surf and ice cream business year round for the island of Oahu. To further my analysis before opening shop, I would run additional queries to gain insight into preciptation for the island to keep business running as well as wind analysis to ensure an ideal surfing environment. 
